@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_live"
+        android:icon="@drawable/ic_live_score"
+        android:title="Live" />
+
+    <item
+        android:id="@+id/nav_upcoming"
+        android:icon="@drawable/ic_upcoming"
+        android:title="Upcoming" />
+
+    <item
+        android:id="@+id/nav_completed"
+        android:icon="@drawable/ic_completed"
+        android:title="Completed" />
+</menu>
