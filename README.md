@@ -100,7 +100,7 @@ Cricket API → Retrofit → ApiService → Fragment → RecyclerView → UI
 ---
 
 ## 🚀 Future Enhancements
-
+ 
 * Detailed scorecards
 * Player statistics
 * Match alerts
