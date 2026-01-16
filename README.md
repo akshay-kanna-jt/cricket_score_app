@@ -4,7 +4,7 @@ An Android application that provides **live cricket scores, upcoming match sched
 Built with **Java, Retrofit, RecyclerView, and Fragments**, this app demonstrates real-time API integration and modern Android UI design.
 
 ---
-
+ 
 ## 📱 Features
 
 * 🔴 Live match scores
