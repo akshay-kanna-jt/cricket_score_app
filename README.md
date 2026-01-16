@@ -1,4 +1,4 @@
-## 🏏 Cricket Score App
+## 🏏 Cricket Score App 
 
 An Android application that provides **live cricket scores, upcoming match schedules, and completed match results** using a public Cricket API.
 Built with **Java, Retrofit, RecyclerView, and Fragments**, this app demonstrates real-time API integration and modern Android UI design.
